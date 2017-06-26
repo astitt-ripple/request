@@ -47,7 +47,7 @@
     "safe-buffer": "^5.0.1",
     "stringstream": "~0.0.4",
     "tough-cookie": "~2.3.0",
-    "tunnel-agent": "^0.6.0",
+    "tunnel-agent": "git://github.com/astitt-ripple/tunnel-agent.git#15d76f9b17b5eb02e91db0fa3eaf62bee60a6ea0",
     "uuid": "^3.0.0"
   },
   "scripts": {
